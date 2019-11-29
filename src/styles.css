@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container{
+background-color: #aee9ea;
+padding: 100px
+}
+
+.label{
+  font-weight: bold;
+}
+
+.emailtxt{
+  font-size: 12px
+}
